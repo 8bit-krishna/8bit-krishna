@@ -2,101 +2,95 @@
 
 # Hi, I'm Krishna 👋
 
-### Software Developer · Full-Stack Development · Web & Application Development
+### Software Developer | Full-Stack Web Development | Applications & Automation
 
-**Building practical software, digital products, and business solutions.**
+**I build practical software solutions for businesses and everyday workflows.**
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-8bit--krishna-181717?style=for-the-badge&logo=github)](https://github.com/8bit-krishna)
-![Open to Freelance Projects](https://img.shields.io/badge/Open_to-Freelance_Projects-2563EB?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-8bit--krishna-181717?style=for-the-badge&logo=github)](https://github.com/8bit-krishna)
+![Open to Freelance Work](https://img.shields.io/badge/Open_to-Freelance_Projects-2563EB?style=for-the-badge)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a software developer interested in **building useful, secure, and maintainable software**—from websites and backend systems to applications, APIs, and automation.
+I'm a software developer focused on turning real-world requirements into useful, maintainable digital products. My interests span **web applications, backend systems, APIs, business automation, and application development**.
 
-I enjoy translating real business requirements into working solutions, designing database-backed systems, and continuously improving my engineering skills.
+I enjoy building database-backed workflows, integrating services, and learning new engineering tools. I'm open to discussing freelance projects and collaborations.
 
-- 💻 **Development:** Full-stack software, websites, backend services, and application development
-- 🔌 **Integrations:** REST APIs, webhooks, third-party services, and automation
-- 🗄️ **Data:** Relational databases, schema design, and data-driven applications
-- 🛡️ **Approach:** Security-aware development, testing, and maintainable code
-- 🤝 **Freelancing:** Interested in collaborating on custom software and digital solutions
+## 🛠️ Tech Stack
 
-## Tech Stack
+**Frontend:** HTML5 · CSS3 · JavaScript
 
-**Languages & Web**
+**Backend & APIs:** Node.js · Express.js · REST APIs · Webhooks
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Databases:** MySQL
 
-**Backend & Databases**
+**Tools:** Git · GitHub · VS Code
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+**Also exploring:** Python · LangGraph · AI-assisted software workflows · Mobile and desktop development
 
-**Developer Tools & Workflow**
+> Tools listed under “Also exploring” reflect ongoing learning and projects, not a claim of production expertise.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+## 💼 What I Can Help Build
 
-## What I Build
-
-| Area | Focus |
+| Service | Examples |
 | --- | --- |
-| 🌐 Web Development | Business websites, dashboards, and full-stack web applications |
-| 📱 Application Development | Exploring mobile and desktop application development |
-| ⚙️ Backend Engineering | Node.js services, APIs, authentication, and integrations |
-| 🗃️ Data-Driven Software | MySQL-backed applications, data models, and reporting |
-| 🔁 Business Automation | Webhooks, structured workflows, and communication systems |
-| 🔒 Software Quality | Testing, access controls, and secure implementation practices |
+| 🌐 Websites & Web Apps | Business websites, admin dashboards, custom web applications |
+| ⚙️ Backend Development | APIs, database-backed services, integrations |
+| 🔁 Business Automation | Customer enquiry flows, notifications, process automation |
+| 🗃️ Database Solutions | Data capture, structured storage, reporting workflows |
+| 📱 Applications | Exploring custom mobile and desktop app development |
 
-## Featured Project
+## 🚀 Selected Projects
 
-### 🛞 Bangalore Tyres — WhatsApp Customer Enquiry Automation
+### 🛞 Bangalore Tyres — Customer Enquiry Automation
 
-A structured customer-enquiry workflow designed for a tyre business using the **official WhatsApp Cloud API**.
+A business enquiry workflow designed around the **official WhatsApp Cloud API**.
 
-**Developed features include:**
-- Guided conversations in **English and Tamil**
+- English and Tamil guided enquiry flows
 - Vehicle-specific tyre enquiry menus
-- Customer enquiry storage using **MySQL**
-- Secure **Node.js + Express** webhook handling
-- Password-protected staff dashboard and enquiry handoff
-- Tests for application and database workflows
+- MySQL-backed customer enquiry storage
+- Node.js and Express.js webhook handling
+- Staff dashboard and enquiry handoff
 
-**Technologies:** JavaScript · Node.js · Express.js · MySQL · WhatsApp Cloud API
+**Stack:** JavaScript · Node.js · Express.js · MySQL · WhatsApp Cloud API
 
-> Project details are summarized at a high level. Private customer data, deployment credentials, and proprietary code are not shared here.
+*The repository is private. Project details are shared at a high level; customer data and credentials are not public.*
 
-## Currently Exploring
+### 🤖 [Agentic AI Software Engineering](https://github.com/8bit-krishna/agentic-ai-software-engineering)
 
-- Scalable full-stack software architecture
-- Mobile and desktop application development
-- Cloud and self-hosted infrastructure
-- Cybersecurity fundamentals and secure engineering
-- Reusable software products for businesses
+A runnable foundation for a structured software-development workflow:
 
-## GitHub Activity
+`Planner → Architect → Coder`
+
+- Deterministic, testable workflow stages
+- Python command-line runner
+- Shared state and structured outputs
+- Designed for future integration with model providers
+
+**Stack:** Python · LangGraph · pytest
+
+*This is an experimental foundation, not a finished autonomous coding agent.*
+
+## 📌 Currently Working On
+
+- Improving full-stack development skills
+- Building software tools for small businesses
+- Exploring application development and agentic AI workflows
+- Preparing a public portfolio of selected projects
+
+## 🤝 Freelance & Collaboration
+
+I'm interested in **freelance software development**, especially business websites, custom web applications, backend systems, and workflow automation.
+
+Have a project in mind? **[Connect with me on GitHub](https://github.com/8bit-krishna)** to start a conversation.
+
+---
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=8bit-krishna&theme=github-dark-blue&hide_border=true)
+**Build thoughtfully · Keep learning · Ship useful software**
 
 </div>
-
-## Let's Connect
-
-I'm interested in **freelance software development, collaborations, and real-world product ideas**.
-
-📬 [Connect with me on GitHub](https://github.com/8bit-krishna)
-
----
-
-<div align="center"><sub>Build thoughtfully. Keep learning. Ship useful software.</sub></div>
